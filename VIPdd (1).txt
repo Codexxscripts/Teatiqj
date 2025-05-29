@@ -1,14 +1,14 @@
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/Library-ui/refs/heads/main/Redzhubui"))()
 
 local Window = redzlib:MakeWindow({
-    Title = "SpiderXHub | Universal",
-    SubTitle = "by @SpiderScriptRB ☢️",
+    Title = "Codex X Scripts| Universal",
+    SubTitle = "by @codexxscripts",
     SaveFolder = "UniversalScriptConfig"
 })
 
 Window:AddMinimizeButton({
     Button = {
-        Image = "rbxassetid://71014873973869",
+        Image = "rbxassetid://94469056076479",
         BackgroundTransparency = 0
     },
     Corner = {
